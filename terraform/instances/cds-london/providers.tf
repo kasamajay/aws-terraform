@@ -1,5 +1,4 @@
 provider "aws" {
-  version = ""
 }
 
 provider "vault" {
